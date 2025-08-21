@@ -1,7 +1,15 @@
 # Querylanguage-Project
 Project
+
 ## Aim of the project
-The goal of this analysis is to provide data-driven insights into road accidents, focusing on accident severity, risk factors, vehicle involvement, and environmental conditions. 
+The goal of this analysis is to provide data-driven insights into road accidents, focusing on accident severity, risk factors, vehicle involvement, and environmental conditions.
+
+### Note
+- Clean, format and transform the data if need be.
+- Clean and readable query attracts more marks.
+- Evident use of AI reduces your score.
+
+#### Tasks at hand
 1. Accident Severity & Risk Factors
 - What is the distribution of accident severity (Slight, Serious, Fatal)?
 - How does speed limit impact accident severity?
