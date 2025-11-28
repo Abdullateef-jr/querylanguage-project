@@ -59,6 +59,7 @@ NB: Basket Analysis - Carry out Basket Analysis in addition to the other tasks.
 - Clean, format and transform the data if need be.
 - Clean and readable query attracts more marks.
 - Evident use of AI reduces your score.
+- Submit your sql scripts
 
 
 
