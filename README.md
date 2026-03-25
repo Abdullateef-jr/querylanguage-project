@@ -1,18 +1,36 @@
 # Querylanguage-Project
-Project I : Use the google playstore and google playstore review datasets
+Project I : Use the Accident & vehicle dataset
 
-The goal of this project is to analyze the Google Play Store Apps dataset to derive insights into the app market. We aim to understand the factors that contribute to an app's success, including user ratings, reviews, and category. Exploring user sentiments towards apps through the analysis of user reviews dataset will provide insights into the popularity of app categories based on total installs and the sentiment polarity of user reviews. The ultimate objective is to offer recommendations for app developers to enhance their app's performance and user satisfaction.
+The goal of this analysis is to provide data-driven insights into road accidents, focusing on accident severity, risk factors, vehicle involvement, and environmental conditions. 
 
 ### Objectives
-Note: Clean data if required
 
-1. Provide the overview of dataset by how many total unique apps and categories in our dataset.
-2. Retrieve the unique app categories and the count of apps in each category.
-3. Identify the top-rated free apps.
-4. Calculate the average rating for each app category.
-5. Find the apps with the highest number of reviews.
-6. Analyze the average sentiment polarity of user reviews for each app category.
-7. Provide the distribution of sentiments across different app categories
+1. Accident Severity & Risk Factors
+  •	What is the distribution of accident severity?
+  •	How does speed limit impact accident severity?
+  •	What are the most dangerous weather and road conditions for accidents?
+  •	Which days of the week have the highest accident rates? 
+
+2. Vehicle Involvement & Impact Analysis
+  •	Which vehicle types are involved in the most accidents?
+  •	What is the relationship between vehicle age and accident severity?
+  •	What are the most common points of impact in accidents?
+  •	Are left-hand drive vehicles more likely to be in accidents? 
+
+3. Geographic & Environmental Trends
+  •	Are accidents more common in urban or rural areas?
+  •	How do light conditions (Daylight vs. Darkness) affect accident severity?
+  •	Do certain weather conditions lead to higher accident severity?
+
+4. Journey & Driver Behavior Analysis
+  •	What are the most common journey purposes for vehicles involved in accidents?
+  •	Are work-related journeys more prone to severe accidents?
+  •	How does the propulsion type (petrol, diesel, electric) impact accident rates?
+
+5. Predictive & Trend Analysis
+  •	Can we predict accident severity based on speed limit, weather, and road conditions?
+  •	How has the number of accidents changed over time?
+
 
 ## Project II : Use the health care dataset
 You are hired as a Data Analytics Consultant in a healthcare system. Your primary responsibility is to analyze and clean messy data related to patients' health records. This involves identifying and addressing inconsistencies, missing values, and formatting errors, all of which are commonly encountered in real-world datasets.
@@ -43,23 +61,7 @@ Your critical thinking, attention to detail, and problem-solving skills are need
 11. Credit Score: A numerical representation of the individual’s creditworthiness (e.g., 720, N/A).
 12. Date of Admission: The date the individual was admitted to a hospital or healthcare facility.
 
-## Project III : Use sales analytics dataset
-Sales Analytics is the practice of generating insights from sales data, trends, and metrics to set targets and forecast future sales performance. It provides insights about the top performing and underperforming products/services, the problems in selling and market opportunities, sale forecasting, and sales activities that generate revenue.
 
-## Objective
-NB: Basket Analysis - Carry out Basket Analysis in addition to the other tasks.
-1. What was the best year for sales? How much was earned that year?
-2. What city had the highest number of sales?
-3. What time should we display advertisement to maximize likehood of customer's buying product?
-4. What products are most often sold together?
-5. What product sold the most? Why do you think it sold the most?
-
-
-# Note
-- Clean, format and transform the data if need be.
-- Clean and readable query attracts more marks.
-- Evident use of AI reduces your score.
-- Submit your sql scripts
 
 
 
